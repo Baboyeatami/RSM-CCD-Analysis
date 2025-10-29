@@ -1,0 +1,3 @@
+Test Type,count,mean,std,CV%
+Compressive,40,12.66,13.974,110.37914691943126
+Flexural,40,1.037,0.663,63.934426229508205
