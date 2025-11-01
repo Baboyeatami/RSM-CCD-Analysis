@@ -1,0 +1,11 @@
+Term,VIF
+const,119.08
+BFC (%),23.358
+Temperature (°C),39.977
+Duration (min),63.244
+BFC (%)*Temperature (°C),5.062
+BFC (%)*Duration (min),7.25
+Temperature (°C)*Duration (min),8.813
+BFC (%)^2,16.364
+Temperature (°C)^2,34.545
+Duration (min)^2,60.0
