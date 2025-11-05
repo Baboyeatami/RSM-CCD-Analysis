@@ -1,0 +1,30 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         Strength (MPa)   R-squared:                       0.761
+Model:                            OLS   Adj. R-squared:                  0.734
+Method:                 Least Squares   F-statistic:                     27.91
+Date:                Wed, 05 Nov 2025   Prob (F-statistic):           1.85e-10
+Time:                        15:03:27   Log-Likelihood:                -11.159
+No. Observations:                  40   AIC:                             32.32
+Df Residuals:                      35   BIC:                             40.76
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+===================================================================================================
+                                      coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+const                               3.2781      0.495      6.622      0.000       2.273       4.283
+Duration (min)                     -0.0971      0.025     -3.852      0.000      -0.148      -0.046
+Temperature (°C)*Duration (min)  -5.42e-05   9.87e-06     -5.491      0.000   -7.42e-05   -3.42e-05
+Temperature (°C)^2               1.083e-06   3.54e-07      3.058      0.004    3.64e-07     1.8e-06
+Duration (min)^2                    0.0014      0.000      4.840      0.000       0.001       0.002
+==============================================================================
+Omnibus:                        7.207   Durbin-Watson:                   2.272
+Prob(Omnibus):                  0.027   Jarque-Bera (JB):                9.305
+Skew:                          -0.391   Prob(JB):                      0.00954
+Kurtosis:                       5.230   Cond. No.                     5.15e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.15e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.

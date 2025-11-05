@@ -1,0 +1,6 @@
+Flexural symbolic equation (A=BFC (%), B=Temperature (°C), C=Duration (min)):
+                     2                                                  2      ↪
+1.08301854398161e-6⋅B  - 5.41978594324024e-5⋅B⋅C + 0.00137132554945057⋅C  - 0. ↪
+
+↪                                      
+↪ 0971273282966039⋅C + 3.27807760989109
