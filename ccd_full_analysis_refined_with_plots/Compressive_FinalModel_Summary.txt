@@ -4,7 +4,7 @@ Dep. Variable:         Strength (MPa)   R-squared:                       0.961
 Model:                            OLS   Adj. R-squared:                  0.956
 Method:                 Least Squares   F-statistic:                     169.6
 Date:                Wed, 05 Nov 2025   Prob (F-statistic):           5.08e-23
-Time:                        15:03:27   Log-Likelihood:                -96.624
+Time:                        20:36:52   Log-Likelihood:                -96.624
 No. Observations:                  40   AIC:                             205.2
 Df Residuals:                      34   BIC:                             215.4
 Df Model:                           5                                         
